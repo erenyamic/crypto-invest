@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122977324021",
+    "project_id": "cryptoinvest-a0870",
+    "storage_bucket": "cryptoinvest-a0870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122977324021:android:a6f877f08e99ed61046ebc",
+        "android_client_info": {
+          "package_name": "com.example.cryptoinvest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122977324021-6h326ubbskakg3t47oinv8nc5j3q0id0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhoE_MCHucJIy_078KAMFAWfvLU3gxDTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122977324021-6h326ubbskakg3t47oinv8nc5j3q0id0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
